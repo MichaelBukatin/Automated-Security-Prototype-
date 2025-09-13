@@ -2,6 +2,8 @@
 ESP32 + PIR + Telegram Bot
 (No schetch)
 
+Video: [click here](https://drive.google.com/file/d/1Zyd9LXnaxaLlG2VcHzpNk53Nki-j1hdI/view?usp=sharing)
+
 This is my first experience of creating an automated security system.
 The idea was to use ESP32 as a microcontroller, PIR motion sensor for presence detection and Telegram bot for sending alarm notifications.
 Also added buzzer for local signal.
